@@ -1,4 +1,4 @@
-fx_verison "adamant"
+fx_version "adamant"
 game "gta5"
 files {
     'vehicles.meta',
